@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Prometheus_15</string>
+    <string-array name="viewlist">
+        <item>Выберите...</item>
+        <item>Список валют</item>
+        <item>Валютные пары</item>
+        <item>Статистика цен</item>
+        <item>Книга ордеров</item>
+        <item>Список сделок</item>
+    </string-array>
+</resources>
